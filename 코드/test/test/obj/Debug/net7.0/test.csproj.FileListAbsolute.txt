@@ -1,0 +1,15 @@
+/Users/kangsii/Desktop/test/test/bin/Debug/net7.0/test
+/Users/kangsii/Desktop/test/test/bin/Debug/net7.0/test.deps.json
+/Users/kangsii/Desktop/test/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/kangsii/Desktop/test/test/bin/Debug/net7.0/test.dll
+/Users/kangsii/Desktop/test/test/bin/Debug/net7.0/test.pdb
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.dll
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/refint/test.dll
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.pdb
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/kangsii/Desktop/test/test/obj/Debug/net7.0/ref/test.dll
